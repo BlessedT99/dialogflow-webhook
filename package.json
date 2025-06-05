@@ -1,0 +1,14 @@
+{
+  "name": "dialogflow-webhook",
+  "version": "1.0.0",
+  "description": "Dialogflow webhook for knowledge base",
+  "main": "api/webhook.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "vercel build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@vercel/node": "^2.0.0"
+  }
+}
